@@ -16,6 +16,8 @@ p {
 }
 section {
   background: grey;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 /* Simple Responsive Framework. */
