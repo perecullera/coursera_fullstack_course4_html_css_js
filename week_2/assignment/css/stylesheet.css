@@ -16,6 +16,9 @@ p {
   font-family: Helvetica;
   color: white;
 }
+section {
+  background: grey;
+}
 
 /* Simple Responsive Framework. */
 .row {
